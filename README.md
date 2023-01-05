@@ -64,7 +64,7 @@ break: Bu komut, en içteki döngüden çıkar. Bu kod satırında, eğer kullan
 
 
 
-*** YOUTUBE LİNKİ : 
+*** YOUTUBE LİNKİ : https://www.youtube.com/watch?v=RBEdN6CrHNU
 
 
 
