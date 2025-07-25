@@ -1,4 +1,4 @@
-# L-NUX_PROJE_ps-aux
+# LINUX_PROJE_ps-aux
 
 
 ***Projenin genel olarak yaptığı iş şu şekildedir:
@@ -62,11 +62,7 @@ break: Bu komut, en içteki döngüden çıkar. Bu kod satırında, eğer kullan
  * daha sonra kullanıcıyı süreç seçme penceresine geri atıyor.
 
 
-
-
 *** YOUTUBE LİNKİ : https://www.youtube.com/watch?v=RBEdN6CrHNU
-
-
 
 HAZIRLAYAN: SEYFETTİN GÖK 
 
