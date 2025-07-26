@@ -1,4 +1,4 @@
-# LINUX_PROJE_ps-aux
+# LiNUX_PROJE_ps-aux
 
 
 ***Projenin genel olarak yaptığı iş şu şekildedir:
