@@ -64,9 +64,11 @@ break: Bu komut, en içteki döngüden çıkar. Bu kod satırında, eğer kullan
 
 *** YOUTUBE LİNKİ : https://www.youtube.com/watch?v=RBEdN6CrHNU
 
+BURSA TEKNİK ÜNİVERSİTESİ BİLGİSAYAR MÜHENDİSLİĞİ
+
 HAZIRLAYAN: SEYFETTİN GÖK 
 
-Bursa Teknik üniversitesi 
+
 
 
 
